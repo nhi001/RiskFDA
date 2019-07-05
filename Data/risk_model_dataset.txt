@@ -35,7 +35,7 @@ Age of facility:
 	Age since the facility was constructed.
 	(Google)
 	Owner:
-		Nada
+		Zoe
 Main Drug Name:
 	The name of the drug that the facility produces the most.
 	(Google)
@@ -98,7 +98,7 @@ Date of Inspection:
 	The date that the inspection was conducted.
 	(OpenFDA API)
 	Owner:
-		Zoe
+		Nada
 Generic or brand?:
 	Is the main drug being manufactured Generic or Brand? (Yes/No)
 	(OpenFDA API)
